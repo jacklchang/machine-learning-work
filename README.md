@@ -47,29 +47,46 @@ Comprehensive collection of NLP model training experiments:
 ## Technologies Used
 
 - **Machine Learning**: PyTorch, TensorFlow, Scikit-learn
-- **NLP**: Transformers (BART, T5, Pegasus), Named Entity Recognition
+- **NLP**: Transformers (BART, T5, Pegasus)
 - **Data Processing**: Python, Pandas, NumPy
 - **Cloud Platforms**: AWS (based on professional experience)
 - **Development**: Jupyter Notebooks, Git
 
-## Professional Context
+## 📊 Professional Context
 
-This repository demonstrates practical application of skills developed from:
+This repository demonstrates practical application of skills developed through:
+- **Current Role**: Data Engineer at Morris Animal Foundation (2021-present)
+- **Previous Experience**: Database Engineer Intern at Microsoft Stream
 - **Education**: MS in Information and Data Science (Machine Learning) - UC Berkeley
+- **Research**: Published work in security and privacy research
 
 ## Real-World Applications & Impact
 
 Projects demonstrate scalable solutions with measurable business impact:
 
-**Healthcare & Research**
-- **Medical Record Digitization**: Converted 17,000+ unstructured veterinary medical records to FHIR using AWS Textract and Healthlake
-- **Research Infrastructure**: Supporting $40M+ research projects contributing to 15+ published scientific papers
-- **Data Pipeline Optimization**: Achieved 87% reduction in data transformation time for millions of veterinary research records
+**Enterprise Data Systems**
+- **Large-Scale Data Processing**: Experience with enterprise-scale ETL pipeline architecture and automation
+- **Performance Optimization**: Achieved significant reductions in data transformation time for large datasets
+- **System Reliability**: Maintained high uptime across production data systems
+- **Self-Service Analytics**: Developed automated reporting platforms reducing manual data requests
 
-**Enterprise Systems**
-- **Self-Service Analytics**: Reduced manual data requests by 40% through automated reporting platforms
-- **A/B Testing Pipeline**: Drove 25% increase in user satisfaction and 20% boost in feature adoption at Microsoft Stream
-- **System Reliability**: Maintained 99.9% uptime across enterprise-scale ETL pipelines
+**Research & Analytics**
+- **Cross-Domain Analysis**: Applied machine learning techniques across diverse data sources
+- **Statistical Analysis**: Experience with large-scale statistical analysis and pattern recognition
+- **Data Integration**: Successfully combined multiple heterogeneous data sources
+
+## Academic Foundation
+
+**University of California, Berkeley** - Master of Information and Data Science (Machine Learning) - 08/2025
+**University of Washington, Seattle** - Dual Bachelor's: Informatics (Database Engineering) & Philosophy (Ethics) - 06/2021
+
+## Professional Experience 
+
+**Current Role - Data Engineer (09/2021-present)**
+- Enterprise-scale ETL pipeline architecture with Python and automation tools
+- Cloud data warehousing with modern analytics platforms
+- Self-service analytics platform development
+- Cross-functional collaboration on data-driven decision making
 
 ---
 
