@@ -52,13 +52,10 @@ Comprehensive collection of NLP model training experiments:
 - **Cloud Platforms**: AWS (based on professional experience)
 - **Development**: Jupyter Notebooks, Git
 
-## 📊 Professional Context
+## Professional Context
 
 This repository demonstrates practical application of skills developed through:
-- **Current Role**: Data Engineer at Morris Animal Foundation (2021-present)
-- **Previous Experience**: Database Engineer Intern at Microsoft Stream
 - **Education**: MS in Information and Data Science (Machine Learning) - UC Berkeley
-- **Research**: Published work in security and privacy research
 
 ## Real-World Applications & Impact
 
