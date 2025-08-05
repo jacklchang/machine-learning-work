@@ -69,8 +69,8 @@ Projects demonstrate scalable solutions with measurable business impact:
 
 ## Academic Foundation
 
-**University of California, Berkeley** - Master of Information and Data Science (Machine Learning) - 08/2025
-**University of Washington, Seattle** - Dual Bachelor's: Informatics (Database Engineering) & Philosophy (Ethics) - 06/2021
+- **University of California, Berkeley** - Master of Information and Data Science (Machine Learning) - 08/2025
+- **University of Washington, Seattle** - Dual Bachelor's: Informatics (Database Engineering) & Philosophy (Ethics) - 06/2021
 
 ## Professional Experience 
 
