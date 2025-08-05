@@ -52,11 +52,6 @@ Comprehensive collection of NLP model training experiments:
 - **Cloud Platforms**: AWS (based on professional experience)
 - **Development**: Jupyter Notebooks, Git
 
-## Professional Context
-
-This repository demonstrates practical application of skills developed through:
-- **Education**: MS in Information and Data Science (Machine Learning) - UC Berkeley
-
 ## Real-World Applications & Impact
 
 Projects demonstrate scalable solutions with measurable business impact:
